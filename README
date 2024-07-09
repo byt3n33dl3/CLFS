@@ -1,8 +1,6 @@
 CLFS attack - CVE-2023-28252
 
-Since February 2022 was reported a new ransomware that appears to be using a Windows 0-day vulnerability, according to the research conducted by Trend Micro.
-More information about this ransomware can be found at this link.
-According to analysis by Kaspersky, the Nokoyawa ransomware group has used other exploits targeting the Common Log File System ( CLFS ) driver since June 2022, with similar but distinct characteristics, all linked to a single exploit developer.
+Since February 2022 was reported a new ransomware that appears to be using a Windows 0-day vulnerability, according to the research conducted by Trend Micro. More information about this ransomware can be found at this link. According to analysis by Kaspersky, the Nokoyawa ransomware group has used other exploits targeting the Common Log File System ( CLFS ) driver since June 2022, with similar but distinct characteristics, all linked to a single exploit developer.
 
 @fortra
 @mcafee
